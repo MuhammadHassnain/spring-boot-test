@@ -15,6 +15,6 @@ public class TestSpringBootApplication {
 	
 	@GetMapping("/test")
 	public String test() {
-		return "Hello from spring test 2";
+		return "Hello from spring test 3";
 	}
 }
